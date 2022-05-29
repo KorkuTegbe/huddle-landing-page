@@ -105,3 +105,6 @@ footer i:active{
     border: 1px solid var(--magenta);
 }
 
+.attribution{
+    text-align: center;
+}
