@@ -35,6 +35,10 @@ nav{
     justify-content: flex-start;
 }
 
+.logo{
+    margin-top: 20px;
+}
+
 main{
     display: flex;
     justify-content: space-between;
@@ -42,14 +46,14 @@ main{
 
 .content-img{
     margin-right: 20px;
-    margin-top: 50px;
+    margin-top: 20px;
     /* align-self: center; */
 }
 
 .content-main{
     /* align-self: center; */
     margin-left: 20px;
-    margin-top: 50px;
+    margin-top: 20px;
 }
 
 .paragraph{
