@@ -71,7 +71,7 @@ main{
     cursor: pointer;
 }
 
-.btn:active{
+.btn:hover{
     background-color: var(--magenta);
     color: #fff;
 }
@@ -100,11 +100,45 @@ footer a{
     color: #fff;
 }
 
-footer i:active{
+footer i:hover{
     color: var(--magenta);
     border: 1px solid var(--magenta);
 }
 
 .attribution{
     text-align: center;
+}
+
+@media (max-width:375px){
+    body{
+        margin: auto;
+        text-align: center;
+    }
+
+    main{
+        flex-direction: column;
+    }
+
+    main img{
+        width: 80%;
+    }
+
+    .heading{
+        font-size: 30px;
+        opacity: 0.9;
+    }
+
+    .paragraph{
+        text-align: center;
+    }
+
+    .btn{
+        margin: auto;
+    }
+
+    footer{
+        justify-content: center;
+        margin-top: 20px;
+        padding-top: 50px;
+    }
 }
