@@ -86,7 +86,7 @@ main{
 .heading{
     font-family: var(--body-font);
     font-weight: var(--header-weight-2);
-    font-size: 45px;
+    font-size: 40px;
     line-height: 1.5;
     text-transform: capitalize;
 }
@@ -120,6 +120,9 @@ footer i:hover{
     body{
         margin: auto;
         text-align: center;
+        background-image: url(./images/bg-desktop.svg);
+        background-size: contain;
+        /* background-position: top; */
     }
 
     .logo{
@@ -136,7 +139,7 @@ footer i:hover{
     }
 
     .heading{
-        font-size: 30px;
+        font-size: 25px;
         opacity: 0.9;
     }
 
