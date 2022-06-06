@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/KorkuTegbe/huddle-landing-page)
-- Live Site URL: [Add live site URL here](https://korkutegbe.github.io/huddle-landing-page/)
+- Solution URL: https://github.com/KorkuTegbe/huddle-landing-page
+- Live Site URL: https://korkutegbe.github.io/huddle-landing-page/
 
 ## My process
 
@@ -53,10 +53,10 @@ Put my CSS variables knowledge to use. I learned it gets better with practice. C
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@KorkuTegbe](https://www.frontendmentor.io/profile/KorkuTegbe)
 - Twitter - [@KorkuTegbe](https://www.twitter.com/KorkuTegbe)
 
 ## Acknowledgments
 
-Adwoa Baah Addo-Brako (https://www.twitter.com/missbaah__) for encouraging me to do this and write better README's. 
+Adwoa Baah Addo-Brako ('https://www.twitter.com/missbaah__') for encouraging me to do this and write better README's. 
 
